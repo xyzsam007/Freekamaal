@@ -1,0 +1,5 @@
+chmod +x *
+
+./king
+
+pip install telebot
